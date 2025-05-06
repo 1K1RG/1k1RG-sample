@@ -17,7 +17,7 @@ This list of files contains both the input and output files needed for generatin
 - [`169.vcf.gz`](https://3kricegenome.s3.dualstack.us-east-1.amazonaws.com/snpseek-dl/1k1rg/SampleData/169.vcf.gz) – A VCF or bgzipped VCF file
 - [`mat_vcf.txt.gz`](https://3kricegenome.s3.dualstack.us-east-1.amazonaws.com/snpseek-dl/1k1rg/SampleData/mat_vcf.txt.gz) – A text-file matrix 
 - [`SampleData_pos.txt`](https://3kricegenome.s3.dualstack.us-east-1.amazonaws.com/snpseek-dl/1k1rg/SampleData/pos.txt) – List of SNP positions (CHR, POS, REF, ALT) 
-- [`SampleData_list.txt`](https://3kricegenome.s3.dualstack.us-east-1.amazonaws.com/snpseek-dl/1k1rg/SampleData/sample_list.txt) –  list of sample IDs in the same order as in HDF5 file
+- [`SampleData_list.txt`](https://3kricegenome.s3.dualstack.us-east-1.amazonaws.com/snpseek-dl/1k1rg/SampleData/sample_list.txt) – List of sample IDs in the same order as in HDF5 file
 
 #### Output Files:
 - [`169_transp.h5`](https://3kricegenome.s3.dualstack.us-east-1.amazonaws.com/snpseek-dl/1k1rg/SampleData/169_transp.h5) – HDF5 file generated from the input data  
