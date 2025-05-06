@@ -14,7 +14,7 @@ Welcome to the **Project Resource Hub**! This repository serves as the central l
 This list of files contains both the input and output files needed for generating HDF5 files. The input files are the raw data that will be processed to create HDF5 matrices, which are used for visualizing SNP data. The output files include the results of this processing, which will be loaded into a database for easy storage, access, and further analysis.
 
 #### Input Files:
-- [`169.vcf.gz`](https://3kricegenome.s3.dualstack.us-east-1.amazonaws.com/snpseek-dl/1k1rg/SampleData/169.vcf.gz) – 
+- [`169.vcf.gz`](https://3kricegenome.s3.dualstack.us-east-1.amazonaws.com/snpseek-dl/1k1rg/SampleData/169.vcf.gz) – Input is a VCF or bgzipped VCF file
 - [`mat_vcf.txt.gz`](https://3kricegenome.s3.dualstack.us-east-1.amazonaws.com/snpseek-dl/1k1rg/SampleData/mat_vcf.txt.gz) – 
 - [`SampleData_pos.txt`](https://3kricegenome.s3.dualstack.us-east-1.amazonaws.com/snpseek-dl/1k1rg/SampleData/pos.txt) – List of SNP positions (CHR, POS, REF, ALT) 
 - [`SampleData_list.txt`](https://3kricegenome.s3.dualstack.us-east-1.amazonaws.com/snpseek-dl/1k1rg/SampleData/sample_list.txt) –  list of sample IDs in the same order as in HDF5 file
